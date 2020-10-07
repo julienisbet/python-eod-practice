@@ -1,2 +1,2 @@
-# python-eod-practice
-Some EOD lecture problems
+# EOD Python Problems
+Some EOD lecture problems. 
